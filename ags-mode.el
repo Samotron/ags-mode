@@ -1,4 +1,4 @@
-;; ags-mode.el --- Support for the AGS Format files
+;;; ags-mode.el --- Support for the AGS Format files
 
 (require 'generic-x)
 
