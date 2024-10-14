@@ -1,3 +1,5 @@
+;; ags-mode.el --- Support for the AGS Format files
+
 (require 'generic-x)
 
 (defvar ags-column-colors
