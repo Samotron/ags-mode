@@ -1,0 +1,2 @@
+* AGS Mode
+A emacs major mode for AGS files
